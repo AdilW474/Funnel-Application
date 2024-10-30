@@ -1,1 +1,1 @@
-# funnel-application
+# mindshine-web-join
